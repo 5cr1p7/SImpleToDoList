@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple ToDo List</string>
+
+    <string name="edit_list_item">Edit</string>
+    <string name="delete_list_item">Delete</string>
+    <string name="mark_as_completed_list_item">Mark as completed</string>
+    <string name="reset_list_item">Reset</string>
+    <string name="no_lists_yet_text">There is no lists yet. Press + button</string>
+</resources>
